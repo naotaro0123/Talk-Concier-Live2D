@@ -13,9 +13,7 @@
 
 （static/live2d/assets配下にモデルを入れます）
 
-![splash](https://github.com/naotaro0123/Talk_Concier_Live2D/blob/master/readmeimages/01.splash.png =x50)
-![menu](https://github.com/naotaro0123/Talk_Concier_Live2D/blob/master/readmeimages/02.menu.png =x50)
-![talk](https://github.com/naotaro0123/Talk_Concier_Live2D/blob/master/readmeimages/03.talk.png =x50)
+<img src="https://github.com/naotaro0123/Talk_Concier_Live2D/blob/master/readmeimages/01.splash.png" width=250> <img src="https://github.com/naotaro0123/Talk_Concier_Live2D/blob/master/readmeimages/02.menu.png" width=250> <img src="https://github.com/naotaro0123/Talk_Concier_Live2D/blob/master/readmeimages/03.talk.png" width=250>
 
 ## Build Setup
 
