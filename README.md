@@ -15,6 +15,7 @@
 
 <img src="https://github.com/naotaro0123/Talk_Concier_Live2D/blob/master/readmeimages/01.splash.png" width=250> <img src="https://github.com/naotaro0123/Talk_Concier_Live2D/blob/master/readmeimages/02.menu.png" width=250> <img src="https://github.com/naotaro0123/Talk_Concier_Live2D/blob/master/readmeimages/03.talk.png" width=250>
 
+
 ## Build Setup
 
 ``` bash
