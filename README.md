@@ -1,6 +1,6 @@
-# Talk_Concier_Live2D
+# Talk-Concier-Live2D
 
-> Vue.js & Repl-AI & Live2Dのトークコンシェルジェ
+> Vue.js & Vuex & Repl-AI & Live2Dのトークコンシェルジェ
 > 入力された会話に合わせて、Live2Dモデルが反応を返します
 
 ・Repl-AIで反応パターン分け
